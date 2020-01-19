@@ -7,7 +7,7 @@ This is supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NE
 | Content Cell  | Content Cell  |
 
 
-Table. 1 VVC Encoder complexity breack-down for different sequences
+Table. 1 VVC Encoder complexity breack-down of different sequences, for Motion Estimation (ME), Intra Prediction (IP), Transform/QUantization (T/Q), Entropy Coding (EC), Loop Filters (LF), and Memory operations (Mem).
 
 |Seq	|Conf	|QP	|ME	|IP	|T/Q	|EC	|LF	|Mem|
 |-------|-------|---|---|---|-------|---|---|---|
