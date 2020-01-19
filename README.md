@@ -82,6 +82,7 @@ Table. 2 VVC Decoder complexity breack-down of different sequences, for Motion C
 
 
 |Seq	|Conf	|QP	|MC	|IP	|IT/IQ	|ED	|LF	|Mem|
+|-------|-------|---|---|---|-------|---|---|---|
 |BQTerrace_1920x1080_60	|LD	|22	|18.81	|0.45	|6.19	|27.06	|29.82	|5.37|
 |	|	|27	|21.5	|0.6	|3.29	|14.17	|33.27	|10.72|
 |	|	|32	|25.65	|0.42	|2.55	|9.06	|34.62	|10   |
