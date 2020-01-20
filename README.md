@@ -155,7 +155,7 @@ This is supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NE
 
 
 
-**Table. A3** VVC Decoder complexity breack-down of different sequences, for Motion Compensation (MC), Intra Prediction (IP), Inverse Transform/ Inverse Quantization (IT/IQ), Entropy Decoding (ED), Loop Filters (LF), and Memory operations (Mem).
+**Table. A3** VVC Decoder complexity break-down of different sequences, for Motion Compensation (MC), Intra Prediction (IP), Inverse Transform/ Inverse Quantization (IT/IQ), Entropy Decoding (ED), Loop Filters (LF), and Memory operations (Mem).
 
 
 |Seq	|Conf	|QP	|MC	|IP	|IT/IQ	|ED	|LF	|Mem|
@@ -230,7 +230,7 @@ This is supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NE
 |	|	|37	|0		|6.94	|11.42	|41.67	|20.77	|6.15|
 
 
-**Table. A4** HEVC Decoder complexity breack-down
+**Table. A4** HEVC Decoder complexity break-down
 
 |Seq	|Conf	|QP	|MC	|IP	|IT/IQ	|ED	|LF	|Mem|
 |-------|-------|---|---|---|-------|---|---|---|
