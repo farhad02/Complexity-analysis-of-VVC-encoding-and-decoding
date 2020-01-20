@@ -1,7 +1,7 @@
 # Complexity-analysis-of-VVC-encoding-and-decoding
 This is supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NEXT-GENERATION VVC ENCODING AND DECODING"
 
-![Image description](https://github.com/farhad02/Complexity-analysis-of-VVC-encoding-and-decoding/blob/master/VVC_enc.png)
+<![Image description](https://github.com/farhad02/Complexity-analysis-of-VVC-encoding-and-decoding/blob/master/VVC_enc.png)>
 
 
 Table. 1 VVC Encoder complexity breack-down of different sequences, for Motion Estimation (ME), Intra Prediction (IP), Transform/QUantization (T/Q), Entropy Coding (EC), Loop Filters (LF), and Memory operations (Mem).
