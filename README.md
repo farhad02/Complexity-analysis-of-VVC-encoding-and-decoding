@@ -1,4 +1,4 @@
-# Complexity-analysis-of-VVC-encoding-and-decoding
+## Complexity analysis of VVC encoding and decoding
 This is supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NEXT-GENERATION VVC ENCODING AND DECODING"
 
 <!--   ![Image description](https://github.com/farhad02/Complexity-analysis-of-VVC-encoding-and-decoding/blob/master/VVC_enc.png) -->
