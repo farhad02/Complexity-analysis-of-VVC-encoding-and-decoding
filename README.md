@@ -4,6 +4,12 @@ This page and dataset are supplementary material for our paper entitled "COMPLEX
 Six video sequences have been encoded and decoded using VVC and HEVC (VTM 6 and HM 16 respectively), under different configurations and QPs, and all operations have been analyzed using Intel VTune 2019. The VTune outputs are reported in csv files in VTunie_CSV_reports.zip.
 Moreover, the complexity have been categorized and tabulated through Tables 1-4 below.
 
+## Citation:
+In case of using this dataset of the provided reports, please cite the following dataset:
+
+[1] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi, "DATASET FOR COMPLEXITY ANALYSIS OF VVC ENCODING AND DECODING", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/p0rm-4b03.
+
+
 <!--   ![Image description](https://github.com/farhad02/Complexity-analysis-of-VVC-encoding-and-decoding/blob/master/VVC_enc.png) -->
 
 
