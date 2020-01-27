@@ -1,7 +1,7 @@
 ## Complexity analysis of VVC encoding and decoding
 This page and dataset are supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NEXT-GENERATION VVC ENCODING AND DECODING".
 
-Six video sequences have been encoded and decoded using VVC and HEVC (VTM 6 and HM 16 respectively), under different configurations and QPs, and all operations have been analyzed using Intel VTune 2019. The VTune outputs are reported in csv files in VTunie_CSV_reports.zip.
+Six video sequences have been encoded and decoded using VVC and HEVC (VTM 6 and HM 16 respectively), under different configurations and QPs, and all operations have been analyzed using Intel VTune 2019. The VTune outputs are reported in csv files in VTune_CSV_reports.zip.
 
 ## Citation:
 In case of using this dataset of the provided reports, please cite the following dataset:
