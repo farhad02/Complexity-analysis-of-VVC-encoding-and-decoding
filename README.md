@@ -1,12 +1,16 @@
 ## Complexity analysis of VVC encoding and decoding
-This page and dataset are supplementary material for our paper entitled "COMPLEXITY ANALYSIS OF NEXT-GENERATION VVC ENCODING AND DECODING".
+This page and dataset are supplementary material for our paper titled "COMPLEXITY ANALYSIS OF NEXT-GENERATION VVC ENCODING AND DECODING". For more detailed analysis on this data, plesae refere to the preprint of our paper (accepted to be presented at IEEE ICIP 2020) on:
+
 
 Six video sequences have been encoded and decoded using VVC and HEVC (VTM 6 and HM 16 respectively), under different configurations and QPs, and all operations have been analyzed using Intel VTune 2019. The VTune outputs are reported in csv files in VTune_CSV_reports.zip.
+
 
 ## Citation:
 In case of using this dataset or the provided reports, please cite the following:
 
-[1] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi, "DATASET FOR COMPLEXITY ANALYSIS OF VVC ENCODING AND DECODING", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/p0rm-4b03.
+[1] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi,"Complexity Analysis Of Next-Generation VVC Encoding and Decoding", IEEE International Conference on Image Processing (ICIP), 2020.
+
+[2] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi, "DATASET FOR COMPLEXITY ANALYSIS OF VVC ENCODING AND DECODING", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/p0rm-4b03.
 
 
 <!--   ![Image description](https://github.com/farhad02/Complexity-analysis-of-VVC-encoding-and-decoding/blob/master/VVC_enc.png) -->
