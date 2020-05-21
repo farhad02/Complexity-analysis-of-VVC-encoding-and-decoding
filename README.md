@@ -8,7 +8,7 @@ Six video sequences have been encoded and decoded using VVC and HEVC (VTM 6 and 
 ## Citation:
 In case of using this dataset or the provided reports, please cite the following:
 
-[1] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi,"Complexity Analysis Of Next-Generation VVC Encoding and Decoding", IEEE International Conference on Image Processing (ICIP), 2020.
+[1] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi,"Complexity Analysis Of Next-Generation VVC Encoding and Decoding", *IEEE International Conference on Image Processing (ICIP)*, 2020.
 
 [2] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, Mahmoud Reza Hashemi, "DATASET FOR COMPLEXITY ANALYSIS OF VVC ENCODING AND DECODING", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/p0rm-4b03.
 
